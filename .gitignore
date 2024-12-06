@@ -1,0 +1,26 @@
+# Temporary and output folders
+temp/
+output/
+
+# Virtual environment
+venv/
+pyvenv.cfg
+
+# Model files
+best_license_plate_model.pt
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Local configuration
+*.env
+
+
+Lib
+Scripts
+Include
