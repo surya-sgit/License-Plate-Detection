@@ -1,0 +1,6 @@
+# Ignore unnecessary files and directories
+*.mp4
+*.jpeg
+output/
+temp/
+venv/
